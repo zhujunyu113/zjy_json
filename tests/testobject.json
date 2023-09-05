@@ -1,0 +1,23 @@
+{
+    "nihao" : null,
+    "hello" : null,
+    "nihao" : null,
+    "true" : "注释1",
+    "false" : "注释2",
+    "true" : true,
+    "false" : false,
+    "str" : "hello",
+    "arr" :["1",2,"3",false,true],
+    "number1":31.415926E-1,
+    "number2":3.1415926,
+    "obj1":{
+        "1":1,
+        "2":2
+    },
+    "obj2":{
+        "1":1,
+        "2":2,
+        "arr":[114514,232,343,{"name":"j\ud83e\uddd1"}]
+    }
+
+}
